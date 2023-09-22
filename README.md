@@ -6,7 +6,7 @@ In this project, we'll dive deep into the implementation of a single common UI c
 
 ![Screen recording showing 3 toast messages popping up from user input](./docs/toast-demo.gif)
 
-## Getting Started
+## Getting Started 
 
 This project is created with [Parcel](https://parceljs.org/). It's intended to be run locally, on your computer, using Node.js and NPM.
 
